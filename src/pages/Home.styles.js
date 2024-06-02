@@ -5,6 +5,7 @@ export const CardContainer = styled.div`
    max-width: 41.2rem;
    padding: 3.2rem;
    border-radius: 3rem;
+   margin: 10rem;
 
    h1 {
     font-size: 2.8rem;
